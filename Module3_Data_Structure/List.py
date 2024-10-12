@@ -1,0 +1,11 @@
+list1 = ["hello","value","ednue","hello"]
+print(list1.count("hello"))
+print(list1.pop(1))
+print(list1)
+print(list1.remove("hello"))
+print(list1)
+print(list1.insert(0,"hello"))
+print(list1)
+print(" ".join(list1))
+print(list1.append("program"))
+print(list1)
